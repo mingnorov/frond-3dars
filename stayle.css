@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    text-align: center ;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    color: black;
+}
+h1{
+    width: 301px ;
+    height: 77px ;
+    margin-top: 30px;
+    margin-left: 559px;
+}
+
+.left{
+    width: 558px;
+    height: 452px;
+    margin-top: 45px;
+    margin-left: 63px;
+    background-color: #FF0000;
+} 
+.Right{
+    width: 558px;
+    height: 452px;
+    margin-top: 45px;
+    margin-left: 63px;
+    background-color: #FF0000;
+    justify-content: space-between;
+    display: flex;
+
+
+}
+h2{
+    padding: 200px;
+    justify-content: center;
+    color: white;
+    display: flex;
+    width: 200px;
+    font-size: 77px;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+
